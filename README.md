@@ -15,7 +15,7 @@ Our app seeks to address the never ending need to find community. Even without q
 * Post a discussion
 * **Go Live** when you are doing an activity
 
-## The Accio team
+## The *Accio LLC* team
 The co-founders of the *Accio LLC* are nine students of CSE 437: Software Engineering Workshop (Spring 2020) at Washington University in St. Louis.
 * Product Manager: Steven Lee
 * Build Master: Pyi Theim Kyaw
