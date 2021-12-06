@@ -31,6 +31,7 @@ The co-founders of the *Accio LLC* are nine students of CSE 437: Software Engine
 ## My responsibilities
 As a front-end developer, I built several interactive core features, and helped other team members resolving development issues.
 * Layout of the drawers
+* The group drawer - group discussions, etc..
 * The event drawer - create, join, etc..
 * Navigation between screens
 
