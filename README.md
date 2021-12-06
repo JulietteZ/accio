@@ -1,6 +1,6 @@
 # Accio
 Accio the location-based interest app implemented with MERN stack: MongoDB, Express.js, React Native, Node.js.
-<img src='./frontend/assets/accio-icons/accio.jpg' width='100' />
+<img src='./frontend/assets/accio-icons/pitch.png' />
 
 ## Pitch
 Our app seeks to address the never ending need to find community. Even without quarantine, there is a global epidemic of people feeling isolated from one another. Where are you supposed to go to find YOUR people? Which bar, which park, which record store are you supposed to go to? Instead of you hopping cafe to cafe hoping that you’ll happen upon someone with your eclectic taste in coffee, our app brings them to you. Our app lets you join groups of people with similar interests and actually see where they are in the moment. Unlike other event and group based apps, Accio thrives in the right now. Any app can tell you what is going on next Friday, or what event you missed yesterday, but only Accio will tell you which friends want to do something right now. 
