@@ -1,5 +1,6 @@
 # Accio
-Accio the location-based interest app implemented with MERN stack: MongoDB, Express.js, React Native, Node.js.
+Accio the location-based interest app. Implemented with MERN stack: MongoDB, Express.js, React Native, Node.js.
+
 <img src='./frontend/assets/accio-icons/pitch.png' />
 
 ## Pitch
