@@ -44,7 +44,3 @@ As a front-end developer, I built several interactive core features, and helped 
   * Node.js server running on AWS EC2 instance
 * Redux.js for frontend state management
 * Native Base cross-platform UI components for the frontend
-
----
-*I really loved our team. Hope we can continue building the app and publish it one day. One of the most delightful project to work on during the Covid-19.*
-
